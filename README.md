@@ -1,4 +1,4 @@
-![](./.readme-static/abstract_background.png)
+<img src="./.readme_static/abstract-background.png" />
 
 # Data Structures and Algorithms exercises
 
