@@ -9,6 +9,7 @@
  * palindrome("abcdefg") === false
  */
 
+// Solution #1
 function palindrome(str) {
   const reversed = str
     .split("")
@@ -18,6 +19,7 @@ function palindrome(str) {
   return reversed === str;
 }
 
+// Solution #2
 function palindrome2(str) {
   return str
     .split("")
